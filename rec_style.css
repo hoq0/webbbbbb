@@ -253,46 +253,36 @@
         font-size: 14px;
         
     }
-    .block2_t2 p{
-        font-size: 14px;
-    }
     .block_slid{
-        -webkit-width: 90%;
+        width: 90%;
     }
     .block2_t{
-        -webkit-width: 90%;
+        width: 90%;
     }
     .wrapper{
-        -webkit-height: 500px;
-        -webkit-width: 500px;
+        height: 500px;
+        width: 500px;
     }
 
     .wrapper .images .img-1{
-        -webkit-background-size: 500px 500px;
+        background-size: 500px 500px;
     }
     .wrapper .images .img-2{
-        -webkit-background-size: 500px 500px;
+        background-size: 500px 500px;
     }
     .slider input::-webkit-slider-thumb{
-        -webkit-height: 496px;
+        height: 496px;
     }
     .slider .drag-line{
-        -webkit-height: 496px;
+        height: 496px;
     }
     .slider .drag-line::before,
     .slider .drag-line::after{
-        -webkit-height: 223px;
+        height: 223px;
     }
     
 }
-@media screen and (max-width: 915px){
-    .block_slid{
-        width: 90%;
-    }
-    .block2_t{
-        width: 90%;
-    }
-}
+
 @media screen and (max-width: 850px) {
     .textup{
         font-size: 40px;
