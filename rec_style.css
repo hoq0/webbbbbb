@@ -251,6 +251,7 @@
     }
     .block2_t p{
         font-size: 14px;
+        -webkit-font-size:12px;
     }
     .block2_t2 p{
         font-size: 14px;
