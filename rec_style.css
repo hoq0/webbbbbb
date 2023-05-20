@@ -249,6 +249,13 @@
     .textup{
         font-size: 48px;
     }
+    .block2_t p{
+        font-size: 14px;
+    }
+    .block2_t2 p{
+        font-size: 14px;
+    }
+    
 }
 @media screen and (max-width: 915px){
     .block_slid{
@@ -277,12 +284,6 @@
         font-size: 28px;
         margin-top: 20px;
         margin-right: 15px;
-    }
-    .block2_t p{
-        font-size: 14px;
-    }
-    .block2_t2 p{
-        font-size: 14px;
     }
     .ft{
         font-size: 12px;
